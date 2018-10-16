@@ -1,0 +1,19 @@
+* {
+	background-color: silver;
+}
+
+#header {
+	height: 4.5rem;
+}
+
+#header_logo {
+	height: 100%;
+	background-image: url("/logo.png");
+	background-size: cover;
+}
+
+#menu {
+	height: 100%;
+	background-image: url("/menu2.png");
+	background-size: cover;
+}
